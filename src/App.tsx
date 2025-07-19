@@ -104,8 +104,7 @@ function App() {
           </div>
           
           <p className="text-xl md:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto leading-relaxed">
-            Passionate about building scalable backend systems and intelligent AI solutions. 
-            Experienced in AI Engineering and full-stack development.
+            Passionate about building scalable backend systems and intelligent AI solutions.
           </p>
           
           <div className="flex flex-wrap justify-center gap-6 mb-12">
